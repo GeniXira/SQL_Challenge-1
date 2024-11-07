@@ -7,7 +7,7 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Question and Solution](#question-and-solution)
 
- all the information regarding this case study has been sourced from the following link: [here](https://8weeksqlchallenge.com/case-study-1/). 
+ All the information for this case study was obtained from the following source: [link]: [here](https://8weeksqlchallenge.com/case-study-1/). 
 
 ***
 
