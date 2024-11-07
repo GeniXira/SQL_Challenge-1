@@ -7,7 +7,7 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Question and Solution](#question-and-solution)
 
- All the information for this case study was obtained from the following source: [link]: [here](https://8weeksqlchallenge.com/case-study-1/). 
+ All the information for this case study was obtained from :👉[here](https://8weeksqlchallenge.com/case-study-1/). 
 
 ***
 
@@ -24,7 +24,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Question and Solution
 
-You can execute the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138). It would be great to work together on the questions!
+You can execute the queries using PostgreSQL on👉  [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138). It would be great to work together on the questions!
 
 **1. What is the total amount each customer spent at the restaurant?**
 
